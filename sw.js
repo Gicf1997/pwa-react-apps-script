@@ -1,7 +1,8 @@
 const CACHE_NAME = "v1_cache_panel_adm",
   urlsToCache = [
-    "https://script.google.com/macros/s/AKfycbxV1Upno47DkZsofFvpIktELMG23LnJkgJ8LEqapQlJlDf7yJLE4Id9OdCY8To1vFg/exec",
+    "https://script.google.com/macros/s/AKfycbye_RW61NBqpPVjtEmfPwPxW7K7STdfQi7pDyo8i4XiCYSBx2V2LVAneMlIxAxD0xre3A/exec",
     "./manifest.json",
+    "https://cdn.tailwindcss.com",
   ];
 
 self.addEventListener("install", (e) => {
