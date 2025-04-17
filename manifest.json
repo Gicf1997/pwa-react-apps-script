@@ -1,36 +1,27 @@
 {
-  "name": "Gestión de Comisión",
-  "short_name": "Panel Adm",
+  "name": "Dashboard de Horas Extras",
+  "short_name": "DashboardHE",
   "start_url": "./?utm_source=web_app_manifest",
   "display": "standalone",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/16/2845/2845507.png",
-      "sizes": "16x16",
-      "type": "image/png"
-    },
-    {
-      "src": "https://cdn-icons-png.flaticon.com/24/2845/2845507.png",
-      "sizes": "24x24",
-      "type": "image/png"
-    },
-    {
-      "src": "https://cdn-icons-png.flaticon.com/32/2845/2845507.png",
+      "src": "iconos/horas-extras_32",
       "sizes": "32x32",
       "type": "image/png"
     },
+
     {
-      "src": "https://cdn-icons-png.flaticon.com/64/2845/2845507.png",
+      "src": "iconos/horas-extras_64",
       "sizes": "64x64",
       "type": "image/png"
     },
     {
-      "src": "https://cdn-icons-png.flaticon.com/128/2845/2845507.png",
+      "src": "iconos/horas-extras_128",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "https://cdn-icons-png.flaticon.com/256/2845/2845507.png",
+      "src": "iconos/horas-extras_256",
       "sizes": "256x256",
       "type": "image/png"
     }
