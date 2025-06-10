@@ -1,6 +1,6 @@
 {
-  "name": "Registros App",
-  "short_name": "RegistroHE",
+  "name": "Registro Despacho MCASSAB",
+  "short_name": "MCASSAB",
   "start_url": "./?utm_source=web_app_manifest",
   "display": "standalone",
   "icons": [
